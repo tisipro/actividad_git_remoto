@@ -18,3 +18,13 @@ Carlos Alfredo Gomez
 
 \### Universidad Provincial de Cordoba
 
+
+
+!\[Imagen que contiene el resultado del comando git log](GIT\_LOG.png)
+
+
+
+!\[Imagen que contiene el resultado del comando git remote](GIT\_REMOTE.png)
+
+
+
